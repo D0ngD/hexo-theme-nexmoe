@@ -20,7 +20,7 @@
 | [西瓜星 🍉✨](https://suikastar.com/)                       | ![西瓜星 🍉✨](https://img.shields.io/website?url=https://suikastar.com/)                       | [衬线柔骨](http://sxrekord.com)                   | ![衬线柔骨](https://img.shields.io/website?url=http://sxrekord.com)                   |
 | [Fentaniao](https://fentaniao.github.io)                  | ![Fentaniao](https://img.shields.io/website?url=https://fentaniao.github.io)                  | [矿快报](https://latestminer.github.io)                   | ![矿快报](https://img.shields.io/website?url=https://latestminer.github.io)    |
 | [星月的海](https://hosizuki.github.io/)                   | ![星月的海](https://img.shields.io/website?url=https://hosizuki.github.io/)                   | [咔斯の小窝](https://kassama.top)                 | ![咔斯の小窝](https://img.shields.io/website?url=https://kassama.top)                 |
-| [ZL Asica的博客](https://www.zl-asica.com/)                   | ![ZL Asica的博客](https://img.shields.io/website?url=https://www.zl-asica.com/)                   |
+| [ZL Asica的博客](https://www.zl-asica.com/)                   | ![ZL Asica的博客](https://img.shields.io/website?url=https://www.zl-asica.com/)                   | [Atom's BLOG](https://d0ngd.github.io/)    | ![Atom's BLOG](https://d0ngd.github.io/) |
 
 ## 💻 Contributors
 
@@ -37,3 +37,4 @@
 ## 💴 Sponsor
 
 ![微信赞赏码](https://i.dawnlab.me/e528323511d872bc759128fc9a8c665f.md.png)
+
